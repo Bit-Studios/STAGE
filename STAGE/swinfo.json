@@ -1,0 +1,13 @@
+{
+    "mod_id": "STAGE",
+    "author": "ShadowDev#6969",
+    "name": "S.T.A.G.E",
+    "description": "stage",
+    "source": "l",
+    "version": "0.0.1",
+    "dependencies": [],
+    "ksp2_version": {
+        "min": "0.1.0",
+        "max": "0.2.0"
+    }
+}
