@@ -72,7 +72,7 @@ namespace STAGE.UI
         public void GenerateStageInfoWindow(int stageID, DeltaVStageInfo stageData)
         {
             VisualElement stageInfoWindow = Element.Root();
-            stageInfoWindow.style.width = 200;
+            stageInfoWindow.style.width = 250;
             stageInfoWindow.style.height = 200;
             stageInfoWindow.style.left = 900;
             stageInfoWindow.style.top = 300;
